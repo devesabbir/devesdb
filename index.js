@@ -1,3 +1,3 @@
-fetch('http://localhost:5070/deves').then( data => data.json()).then( data => {
-    console.log(data);
+fetch('https://my-json-server.typicode.com/devssabbir/devesdb/deves').then( data => data.json()).then( data => {
+    
 })
