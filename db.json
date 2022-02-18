@@ -1,68 +1,107 @@
 {
-    "Products" :[
-             {
-                 "id" : 1,
-                 "Title" : "Smart watches wood edition",
-                 "Category" : ["Accessories","Clocks"],
-                 "Price" : 599.00,
-                 "image" : "https://z9d7c4u6.rocketcdn.me/wp-content/uploads/2016/08/product-accessories-8-1-430x491.jpg.webp",
-                 "Description" : "Himenaeos parturient nam a justo placerat lorem erat pretium a fusce pharetra"
-                 
-             }, {
-                "id" : 2,
-                "Title" : "Penatibus parturient orci morbi",
-                "Category" : ["Toys"],
-                "Price" : 359.00,
-                "image" : "https://z9d7c4u6.rocketcdn.me/wp-content/uploads/2016/09/product-furniture-18-2-430x490.jpg.webp",
-                "Description" : "Penatibus ac parturient a orci morbi a nisi orci penatibus curae dignissim cum"
-                
-            },{
-                "id" : 3,
-                "Title" : "Wooden bow tie man",
-                "Category" : ["Accessories"],
-                "Price" : 359.00,
-                "image" : "https://z9d7c4u6.rocketcdn.me/wp-content/uploads/2016/08/product-accessories-1-2-430x490.jpg.webp",
-                "Description" : "Feugiat malesuada a a elit varius diam hac ad penatibus tellus vivamus suscipit duis"
-                
-            },{
-                "id" : 4,
-                "Title" : "Nerd wooden chair",
-                "Category" : ["Furniture"],
-                "Price" : 599.00,
-                "image" : "https://z9d7c4u6.rocketcdn.me/wp-content/uploads/2016/09/product-furniture-1-5-430x490.jpg.webp",
-                "Description" : "Placerat tempor dolor eu leo ullamcorper et magnis habitant ultrices consectetur"
-                
-            }
-     ],
+    "Products": [{
+        "id": 1,
+        "Title": "Smart watches wood edition",
+        "Category": ["Accessories", "Clocks"],
+        "Price": 599.00,
+        "image": "https://z9d7c4u6.rocketcdn.me/wp-content/uploads/2016/08/product-accessories-8-1-430x491.jpg.webp",
+        "Description": "Himenaeos parturient nam a justo placerat lorem erat pretium a fusce pharetra"
 
-    "deves" : [
+    }, {
+        "id": 2,
+        "Title": "Penatibus parturient orci morbi",
+        "Category": ["Toys"],
+        "Price": 359.00,
+        "image": "https://z9d7c4u6.rocketcdn.me/wp-content/uploads/2016/09/product-furniture-18-2-430x490.jpg.webp",
+        "Description": "Penatibus ac parturient a orci morbi a nisi orci penatibus curae dignissim cum"
+
+    }, {
+        "id": 3,
+        "Title": "Wooden bow tie man",
+        "Category": ["Accessories"],
+        "Price": 359.00,
+        "image": "https://z9d7c4u6.rocketcdn.me/wp-content/uploads/2016/08/product-accessories-1-2-430x490.jpg.webp",
+        "Description": "Feugiat malesuada a a elit varius diam hac ad penatibus tellus vivamus suscipit duis"
+
+    }, {
+        "id": 4,
+        "Title": "Nerd wooden chair",
+        "Category": ["Furniture"],
+        "Price": 599.00,
+        "image": "https://z9d7c4u6.rocketcdn.me/wp-content/uploads/2016/09/product-furniture-1-5-430x490.jpg.webp",
+        "Description": "Placerat tempor dolor eu leo ullamcorper et magnis habitant ultrices consectetur"
+
+    }],
+
+    "deves": [{
+        "id": 1,
+        "Name": "Ashraful Hoque",
+        "Age": 30,
+        "Loaction": "Mirpur",
+        "Skill": [
+            "Php", "Mern"
+        ],
+        "Photo": "https://scontent.fdac116-1.fna.fbcdn.net/v/t39.30808-6/271547251_10221668395318941_1938174359673295619_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFYWcsjtrCZrA0_6ZmPmot3bVX3-HfzPKZtVff4d_M8pqYjX69yJTOLD0MeKPwiFj7N5e52v0XJ6nIDreXy3T4z&_nc_ohc=zTKJhCo6iVMAX9pru74&_nc_zt=23&_nc_ht=scontent.fdac116-1.fna&oh=00_AT_k7WVjO5xisE3j_BabPfs1CQ54szmFZkMrl7bHeUUosA&oe=621093D4"
+    }, {
+        "id": 2,
+        "Name": "Jillur Rahman",
+        "Age": 28,
+        "Location": "Dinajpur",
+        "Skill": [
+            "Php", "Wordpress"
+        ],
+        "Photo": "https://scontent.fdac116-1.fna.fbcdn.net/v/t39.30808-6/269760980_3543763685748969_2832455753542869429_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeHQUP1hAgiKOBACnDyZ7UTl8mqWuSyITnjyapa5LIhOeD04vCbkQV0uHO-N3WA6CAlNVHnlWyF8XXy25mjTHJ0p&_nc_ohc=ZriqzmLqA3cAX8tEyTu&tn=gDHBIRgCb6t0c0T1&_nc_zt=23&_nc_ht=scontent.fdac116-1.fna&oh=00_AT-IjLHOv-AdQEkEecPP5eO-WA8WFmZTP4emjcYEDbQvCg&oe=6210786C"
+    }, {
+        "id": 3,
+        "Name": "Jillur Rahman",
+        "Age": 28,
+        "Location": "Dinajpur",
+        "Skill": [
+            "Php", "Wordpress"
+        ],
+        "Photo": "https://scontent.fdac116-1.fna.fbcdn.net/v/t39.30808-6/269760980_3543763685748969_2832455753542869429_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeHQUP1hAgiKOBACnDyZ7UTl8mqWuSyITnjyapa5LIhOeD04vCbkQV0uHO-N3WA6CAlNVHnlWyF8XXy25mjTHJ0p&_nc_ohc=ZriqzmLqA3cAX8tEyTu&tn=gDHBIRgCb6t0c0T1&_nc_zt=23&_nc_ht=scontent.fdac116-1.fna&oh=00_AT-IjLHOv-AdQEkEecPP5eO-WA8WFmZTP4emjcYEDbQvCg&oe=6210786C"
+    }],
+
+    "Students": [
         {
-            "id" : 1,
-            "Name" : "Ashraful Hoque",
-            "Age" : 30,
-            "Loaction" : "Mirpur",
-            "Skill" :[
-                   "Php","Mern"
-            ],
-            "Photo" : "https://scontent.fdac116-1.fna.fbcdn.net/v/t39.30808-6/271547251_10221668395318941_1938174359673295619_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFYWcsjtrCZrA0_6ZmPmot3bVX3-HfzPKZtVff4d_M8pqYjX69yJTOLD0MeKPwiFj7N5e52v0XJ6nIDreXy3T4z&_nc_ohc=zTKJhCo6iVMAX9pru74&_nc_zt=23&_nc_ht=scontent.fdac116-1.fna&oh=00_AT_k7WVjO5xisE3j_BabPfs1CQ54szmFZkMrl7bHeUUosA&oe=621093D4"
-        },{
-            "id" : 2,
-            "Name" : "Jillur Rahman",
-            "Age" : 28,
-            "Location" : "Dinajpur",
-            "Skill" :[
-                   "Php","Wordpress"
-            ],
-            "Photo" : "https://scontent.fdac116-1.fna.fbcdn.net/v/t39.30808-6/269760980_3543763685748969_2832455753542869429_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeHQUP1hAgiKOBACnDyZ7UTl8mqWuSyITnjyapa5LIhOeD04vCbkQV0uHO-N3WA6CAlNVHnlWyF8XXy25mjTHJ0p&_nc_ohc=ZriqzmLqA3cAX8tEyTu&tn=gDHBIRgCb6t0c0T1&_nc_zt=23&_nc_ht=scontent.fdac116-1.fna&oh=00_AT-IjLHOv-AdQEkEecPP5eO-WA8WFmZTP4emjcYEDbQvCg&oe=6210786C"
-        },{
-            "id" : 3,
-            "Name" : "Jillur Rahman",
-            "Age" : 28,
-            "Location" : "Dinajpur",
-            "Skill" :[
-                   "Php","Wordpress"
-            ],
-            "Photo" : "https://scontent.fdac116-1.fna.fbcdn.net/v/t39.30808-6/269760980_3543763685748969_2832455753542869429_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeHQUP1hAgiKOBACnDyZ7UTl8mqWuSyITnjyapa5LIhOeD04vCbkQV0uHO-N3WA6CAlNVHnlWyF8XXy25mjTHJ0p&_nc_ohc=ZriqzmLqA3cAX8tEyTu&tn=gDHBIRgCb6t0c0T1&_nc_zt=23&_nc_ht=scontent.fdac116-1.fna&oh=00_AT-IjLHOv-AdQEkEecPP5eO-WA8WFmZTP4emjcYEDbQvCg&oe=6210786C"
+        "id": 1,
+        "Name": "Sabbir Hossain",
+        "Class": 10,
+        "Group": "Science",
+        "Marks": {
+            "Bangla": 70,
+            "English": 77,
+            "Math": 80,
+            "Science": 90,
+            "Ict" : 89,
+            "Religion" : 90
         }
-    ]
+     },{
+        "id": 2,
+        "Name": "Somrat",
+        "Class": 10,
+        "Group": "Science",
+        "Marks": {
+            "Bangla": 80,
+            "English": 77,
+            "Math": 80,
+            "Science": 50,
+            "Ict" : 79,
+            "Religion" : 90
+        }
+     },{
+        "id": 3,
+        "Name": "Lemon",
+        "Class": 10,
+        "Group": "Science",
+        "Marks": {
+            "Bangla": 90,
+            "English": 87,
+            "Math": 90,
+            "Science": 60,
+            "Ict" : 59,
+            "Religion" : 70
+        }
+     }
+]
 }
